@@ -7,32 +7,32 @@ const WorkoutSchema = new Schema({
     type: Date,
     default: Date.now,
   },
-  // db.workouts.find({name: ""})
 
   exercises: [
     {
       type: {
         type: String,
-        trim: true,
+        required: true,
       },
       name: {
         type: String,
-        trim: true,
+        required: true,
       },
       duration: {
         type: Number,
+        required: true,
       },
       weight: {
         type: Number,
-        default: 0,
+        required: true,
       },
       reps: {
         type: Number,
-        default: 0,
+        required: true,
       },
       sets: {
         type: Number,
-        default: 0,
+        required: true,
       },
     },
   ],
