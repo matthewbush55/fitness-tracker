@@ -17,8 +17,8 @@ This application allows users to enter workout data into a form and uses CRUD op
 
 [Link to Deployed App](https://fitness-tracker-mrb.herokuapp.com/)
 
-![Walkthrough](images/Walkthrough.png)
-![Walkthrough](images/Walkthrough2.png)
+![Walkthrough](images/walkthrough.png)
+![Walkthrough](images/walkthrough2.png)
 
 ## Installation
 
