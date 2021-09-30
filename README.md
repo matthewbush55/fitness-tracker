@@ -15,8 +15,10 @@
 
 This application allows users to enter workout data into a form and uses CRUD operations to populate a `MongoDB` database. Users can choose to create a new workout and track new exercises, or open an existing workout and add more exercise to it. Once the user is finished entering exercises, the data is aggregated an displayed in graphs. This app uses `Mongoose` to create the database schema. It also utilizes `node.js`, `JavaScript`, `express.js`, and `MongoDB`.
 
-![Walkthrough](assets/images/Walkthrough.png)
-![Walkthrough](assets/images/Walkthrough2.png)
+[Link to Deployed App](https://fitness-tracker-mrb.herokuapp.com/)
+
+![Walkthrough](images/Walkthrough.png)
+![Walkthrough](images/Walkthrough2.png)
 
 ## Installation
 
